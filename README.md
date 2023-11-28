@@ -1,0 +1,2 @@
+- Expect: Sending PRs like https://github.com/Goooler/renovate-issue-26005-repro/pull/4, Kotlin with KSP both updates.
+- Actual: https://github.com/Goooler/renovate-issue-26005-repro/pull/5
