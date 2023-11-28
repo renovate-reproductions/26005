@@ -18,8 +18,8 @@
       ]
     },
     {
-      "matchPackagePatterns": [
-        "org.jetbrains.kotlin.*"
+      "matchPackageNames": [
+        "com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin"
       ],
       "versioning": "loose"
     }
