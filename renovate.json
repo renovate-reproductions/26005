@@ -16,6 +16,12 @@
       "matchPackagePatterns": [
         "org.jetbrains.kotlin.*"
       ]
+    },
+    {
+      "matchPackagePatterns": [
+        "org.jetbrains.kotlin.*"
+      ],
+      "versioning": "loose"
     }
   ]
 }
